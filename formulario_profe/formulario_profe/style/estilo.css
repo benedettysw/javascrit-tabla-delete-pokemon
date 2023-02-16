@@ -1,0 +1,9 @@
+.cuadro{
+    position: absolute;
+    left: 9%;
+    background: rgb(125, 107, 217);
+    height: 50%;
+    width: 40%;
+    border-radius: 10%;
+    
+}
