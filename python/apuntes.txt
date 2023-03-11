@@ -1,0 +1,7 @@
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow pymysql
+
+/*sacamos las librerias */
+pip freeze > requirements.txt
+/*instalamos todas las librerias*/
+pip .install --r requirements
+pip install -r requirements.txt
