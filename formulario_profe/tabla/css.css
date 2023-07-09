@@ -1,0 +1,14 @@
+.hola{
+    position: relative;
+    width: 30%;
+    color: while;
+}
+
+body{
+    background-color: rgb(26, 26, 49);
+}
+
+.table{
+    position: absolute;
+    width: 40%;
+}
